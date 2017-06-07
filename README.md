@@ -1,5 +1,5 @@
 # Hail the pine cones
-### Don't Starve which enables pine cones from trees to be modified. The modified cone missiles can be thrown in your enemies face!
+### Don't Starve mod which enables pine cones from trees to be modified. The modified cone missiles can be thrown in your enemies face!
 
 This mod adds some extra features to pine cones dropped by (not sparse-)evergreens. You can now harvest every grown up evergreen and will find one pine cone. These pine cones disappear, when evergreens grow old.
 
@@ -19,7 +19,7 @@ Configuration:
 * Harvest from trees
 
 
-Big thanks to @Malacath for the great support!
+Big thanks to Malacath for the great support!
 
 Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=349772929
 
