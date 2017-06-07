@@ -22,5 +22,7 @@ Configuration:
 Big thanks to @Malacath for the great support!
 
 Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=349772929
+
 Part of: http://steamcommunity.com/workshop/filedetails/?id=225260818
+
 Non-steam: http://forums.kleientertainment.com/files/file/434-hailthepinecones/
